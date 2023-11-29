@@ -21,7 +21,6 @@ Program to find the square root for the given number(newton's method) using func
 Developed by: JAYADEV PALLINTI
 RegisterNumber:  23007677
 */
-```
 n=int(input())
 approx=0.5*n
 for i in range(1,10):
